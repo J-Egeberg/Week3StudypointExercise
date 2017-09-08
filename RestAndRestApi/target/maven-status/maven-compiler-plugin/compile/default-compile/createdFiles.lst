@@ -1,0 +1,7 @@
+facade/PetHospitalFacade.class
+entity/Pet.class
+rest/PetHospitalResource.class
+entity/Event.class
+entity/Owner.class
+rest/ApplicationConfig.class
+impl/PetHospitalImpl.class
