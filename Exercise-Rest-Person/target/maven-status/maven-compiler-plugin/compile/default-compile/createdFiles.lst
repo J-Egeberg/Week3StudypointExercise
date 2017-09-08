@@ -1,0 +1,5 @@
+rest/PersonResource.class
+entity/Person.class
+rest/ApplicationConfig.class
+impl/IPersonFacadeImpl.class
+facade/IPersonFacade.class
